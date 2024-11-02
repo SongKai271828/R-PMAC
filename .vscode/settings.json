@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "drv_plc.h": "c",
+        "bsp.h": "c",
+        "fw_delay.h": "c",
+        "math.h": "c"
+    }
+}
